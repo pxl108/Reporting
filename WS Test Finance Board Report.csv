@@ -1,13 +1,13 @@
-﻿Month,Revenue (£),Cost of Sales (CoS) (£),Gross Profit (£),Gross Margin (%)
-Jan,"£250,000 ",,,
-Feb,,,,
-Mar,,,,
-Apr,,,,
-May,,,,
-Jun,,,,
-Jul,,,,
-Aug,,,,
-Sep,,,,
-Oct,,,,
-Nov,,,,
-Dec,,,,
+﻿Month,Revenue (£)
+Jan,250000
+Feb,312000
+Mar,244000
+Apr,317000
+May,277000
+Jun,250000
+Jul,312000
+Aug,244000
+Sep,317000
+Oct,277000
+Nov,317000
+Dec,277000
